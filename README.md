@@ -2,11 +2,11 @@
 
 Ejercicios del modulo Acceso a datos del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma
 ## Comenzando 🚀
-	* Ejercicio 1: Lectura y Busquedad de ficheros
-	* Ejercicio2: Copia de ficheros
+* Ejercicio 1: Lectura y Busquedad de ficheros
+* Ejercicio2: Copia de ficheros
 
 ## Construido con 🛠️
-	* Netbeans
+* Netbeans
 
 ## Autores ✒️
 
