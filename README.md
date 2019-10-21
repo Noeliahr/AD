@@ -10,4 +10,4 @@ Ejercicios del modulo Acceso a datos del Ciclo Superior de Desarrollo de Aplicac
 
 ## Autores ✒️
 
-Noelia Hernandez Rodriguez [Noeliahr]/(https://github.com/Noeliahr/AD)
+Noelia Hernandez Rodriguez [Noeliahr]/(https://github.com/Noeliahr)
