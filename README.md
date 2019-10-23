@@ -4,6 +4,7 @@ Ejercicios del modulo Acceso a datos del Ciclo Superior de Desarrollo de Aplicac
 ## Comenzando 🚀
 * Ejercicio 1: Lectura y Busquedad de ficheros
 * Ejercicio2: Copia de ficheros
+* Ejercicio 3: Leer fichero desde una posicion aleatoria
 
 ## Construido con 🛠️
 * Netbeans
