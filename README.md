@@ -7,7 +7,7 @@ Ejercicios del modulo Acceso a datos del Ciclo Superior de Desarrollo de Aplicac
 * Ejercicio 3: Leer fichero desde una posicion aleatoria
 * Ejercicio 4: Objetos serializables
 * Ejercicio 5: Leer XML y Escribir XML
-* Ejercicio 6: Conectar a SQLite
+* Ejercicio 6: Conectar a SQLite 
 ## Construido con 🛠️
 * Netbeans
 
