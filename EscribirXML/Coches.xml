@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Coches>
+	<coche>
+		<Marca>SEAT</Marca>
+		<Matricula>7418AAA</Matricula>
+	</coche>
+	<coche>
+		<Marca>FORD</Marca>
+		<Matricula>7417BAA</Matricula>
+	</coche>
+	<coche>
+		<Marca>FIAT</Marca>
+		<Matricula>1236BBB</Matricula>
+	</coche>
+	<coche>
+		<Marca>AUDI</Marca>
+		<Matricula>1111BBB</Matricula>
+	</coche>
+</Coches>
