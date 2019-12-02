@@ -141,12 +141,12 @@ public class Ejemplo_SQLite {
     
     public static void main(String[] args) throws SQLException {
         Ejemplo_SQLite ejemplo= new Ejemplo_SQLite ();
-         System.out.println("Tabla de Personas");
+        System.out.println("Tabla de Personas");
         selectPersonas();
         System.out.println("Tabla de Alumnos");
         selectAlumnos();
         borrarTabla("alumnos");
-         System.out.println("Tabla de Alumnos");
+        System.out.println("Tabla de Alumnos");
         selectAlumnos();
         
         createNewTable();
